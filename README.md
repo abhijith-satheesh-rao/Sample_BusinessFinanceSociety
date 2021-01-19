@@ -1,4 +1,4 @@
-#Welcome to the Business Financial Society
+# Welcome to the Business Financial Society
 
 ## Welcome to GitHub Pages
 
